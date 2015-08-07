@@ -3253,3 +3253,151 @@ Request URL: /cake_day1/bootstrap.min.js
 Stack Trace:
 #0 /Applications/MAMP/htdocs/cake_day1/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-08-07 07:56:23 Error: [MissingActionException] Action PagesController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+)
+Request URL: /pages/img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:57:18 Error: [MissingActionException] Action PagesController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+)
+Request URL: /pages/img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:57:18 Error: [MissingActionException] Action PagesController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+)
+Request URL: /pages/img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:57:18 Error: [MissingActionException] Action PagesController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+)
+Request URL: /pages/img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:57:18 Error: [MissingActionException] Action PagesController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+)
+Request URL: /pages/img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:58:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 07:58:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 07:58:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-07 07:59:12 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:59:25 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:59:25 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 07:59:26 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 08:00:07 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 08:00:08 Error: [MissingActionException] Action PagesController::my_top.JPG() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'my_top.JPG',
+)
+Request URL: /pages/my_top.JPG
+Stack Trace:
+#0 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\bootcamp_day0\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\bootcamp_day0\app\webroot\index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
